@@ -1,0 +1,47 @@
+@import url("https://fonts.googleapis.com/css?family=Alegreya:900|Open+Sans|Slabo+27px&display=swap");
+
+body{
+
+background-color: #fffbf7;
+
+}
+
+
+h1{
+    color: #025157;
+    font-family: "Alegreya", serif;
+    font-size: 60px;
+    margin-bottom: 24px
+
+}
+    
+#imagen{
+
+    text-align: center;
+
+}
+
+h4 {
+    color: #46484c;
+    font-family: "Slabo 27px", serif;
+    font-size: 20px;
+    margin-bottom: 30px;
+}
+
+button {
+    background-color: #025157;
+    color: #fff;
+    border: none;
+    border-top-left-radius: 0;
+    border-bottom-left-radius: 0;
+    padding: 6px 20px;
+    margin-left: -10px;
+    padding: 15;
+}
+
+input, button {
+    height: 100%;
+    border-radius: 8px;
+    padding: 15;
+}
+
